@@ -1,5 +1,5 @@
-([('main',
-   '/home/thomas/Thomas/programming/GIT/Cassandra-Tool/build/main/main',
+([('CassTl',
+   '/home/thomas/Thomas/programming/GIT/Cassandra-Tool/build/main/CassTl',
    'EXECUTABLE'),
   ('env/bin/python3.10',
    '/home/thomas/Thomas/programming/GIT/Cassandra-Tool/env/bin/python3.10',

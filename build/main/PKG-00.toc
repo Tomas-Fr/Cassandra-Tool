@@ -1,4 +1,4 @@
-('/home/thomas/Thomas/programming/GIT/Cassandra-Tool/build/main/main.pkg',
+('/home/thomas/Thomas/programming/GIT/Cassandra-Tool/build/main/CassTl.pkg',
  {'BINARY': True,
   'DATA': True,
   'EXECUTABLE': True,
